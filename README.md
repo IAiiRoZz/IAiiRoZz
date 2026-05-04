@@ -37,3 +37,9 @@ const epiteen = {
   currentFocus: "Approfondir C++ et préparer l'arrivée de l'écosystème JavaScript",
   funFact: "SELECT * FROM life WHERE stress = 'low' AND coffee > 0;"
 };
+```
+### 📊 Mes Statistiques GitHub
+
+<p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=IAiiRoZz&theme=vision-friendly-dark&hide_border=true" alt="Ma série de contributions"/>
+</p>
