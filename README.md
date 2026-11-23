@@ -12,7 +12,7 @@
 const epiteen = {
   name: "Yanis Touahria",
   school: "EPITA (Promotion 2028)",
-  status: "Engineering Student - Year 1",
+  status: "Engineering Student - Year 2",
   
   languages: {
     mastering: ["C", "C++", "Java", "OCaml", "SQL"],
